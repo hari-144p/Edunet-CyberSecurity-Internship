@@ -5,7 +5,7 @@ This Python-based Image Steganography tool enables users to securely embed and r
 
 ## Features
 - **Message Encryption & Decryption:** Conceal and extract hidden messages within images..
-- **Passcode Security:**Protect encrypted messages with a secure passcode.
+- **Passcode Security:** Protect encrypted messages with a secure passcode.
 - **Multi-Platform Compatibility:** Works seamlessly on Windows, macOS, and Linux.
 - **Wide Image Format Support:** Supports popular formats like JPG and PNG.
 
